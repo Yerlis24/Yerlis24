@@ -1,5 +1,9 @@
 <!-- Banner -->
 <p align="center">
+  <img src="banner.png" alt="Banner QA Engineer" width="100%" />
+</p>
+
+<p align="center">
   <img src="banner.png" alt="Banner" width="100%" />
 </p>
 
