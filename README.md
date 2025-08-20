@@ -49,7 +49,7 @@
 - 📱 **Pruebas móviles** – Casos de prueba y regresión en app Android.  
   `Android Studio · QA Móvil`
 
-👉 Mira todos mis proyectos en: [github.com/yerlisdimas?tab=repositories](https://github.com/yerlisdimas?tab=repositories)
+👉 Mira todos mis proyectos en: [github.com/yerlisdimas?tab=repositories](https://github.com/Yerlis24?tab=repositories)
 
 ---
 
@@ -74,9 +74,9 @@
 ---
 
 ## 📫 Contacto
-- 💼 **LinkedIn:** [tu-linkedin](https://www.linkedin.com/in/tu-linkedin/)  
-- ✉️ **Email:** tu-email@dominio.com  
-- 🐙 **GitHub:** [github.com/yerlisdimas](https://github.com/yerlisdimas)  
+- 💼 **LinkedIn:** [tu-linkedin](https://www.linkedin.com/in/yerlis-dimas-puello/)  
+- ✉️ **Email:** yerlismdimas@gmail.com  
+- 🐙 **GitHub:** [github.com/yerlisdimas](https://github.com/Yerlis24)  
 
 > ¿Te interesa colaborar? ¡Hablemos! 😄
 
