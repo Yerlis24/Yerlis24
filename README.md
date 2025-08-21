@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/C5ccG2gb/portada-YERLIS.png" alt="Banner" width="900" height="300" />
+  <img src="https://i.ibb.co/C5ccG2gb/portada-YERLIS.png" alt="Banner" width="900" height="250" />
 </p>
 
 
