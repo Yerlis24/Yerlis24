@@ -9,7 +9,7 @@
 
 <h1 align="center">¡Hola! Soy <a href="https://github.com/yerlisdimas">Yerlis Dimas</a> 👋</h1>
 <p align="center">
-  QA Engineer• Pruebas Manuales & Automatizadas • Python • Selenium • Postman • SQL
+  QA Engineer • Pruebas Manuales & Automatizadas • Python • Selenium • Postman • SQL
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 ---
 
 ## 👩‍💻 Sobre mí
-- 🔍 **QA Engineer Jr** con experiencia en pruebas **manuales y automatizadas**.  
+- 🔍 **QA Engineer ** con experiencia en pruebas **manuales y automatizadas**.  
 - 🐞 Apasionada por la detección de **defectos críticos** y la mejora continua de procesos.  
 - 🧪 Experiencia en **pruebas funcionales, regresión y API testing** con **Postman**.  
 - 📱 Validación de aplicaciones móviles con **Android Studio**.  
