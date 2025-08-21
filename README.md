@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/C5ccG2gb/portada-YERLIS.png" alt="Banner" width="50%" />
+  <img src="https://i.ibb.co/C5ccG2gb/portada-YERLIS.png" alt="Banner" width="800" height="200" />
 </p>
+
 
 <h1 align="center">¡Hola! Soy <a href="https://github.com/yerlisdimas">Yerlis Dimas</a> 👋</h1>
 <p align="center">
