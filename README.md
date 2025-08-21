@@ -9,7 +9,7 @@
 
 <h1 align="center">¡Hola! Soy <a href="https://github.com/yerlisdimas">Yerlis Dimas</a> 👋</h1>
 <p align="center">
-  QA Engineer • Pruebas Manuales & Automatizadas • Python • Selenium • Postman • SQL
+  QA Engineer• Pruebas Manuales & Automatizadas • Python • Selenium • Postman • SQL
 </p>
 
 <p align="center">
